@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hhgoa2026-identity.vercel.app/sitemap.xml
